@@ -22,5 +22,3 @@ Tests use a local simulated agent only:
 ```bash
 python3 -m unittest -v test_snmp_strings.py
 ```
-
-The previous script is preserved as `snmp_strings.py.bak`.
